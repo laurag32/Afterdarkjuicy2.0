@@ -2,7 +2,7 @@
 Juicy2.0
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><meta name="ppck-ver" content="8afe6b903ee5ee7b71c042e11563daef" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Afterdarkjuice 🍒</title>
@@ -61,7 +61,7 @@ Juicy2.0
         100% { opacity: 1; transform: translateY(0); }
     }
 </style>
-</head>
+</head><meta name="ppck-ver" content="8afe6b903ee5ee7b71c042e11563daef" />
 <body>
     <header>
         <img src="banner.png" alt="Afterdarkjuice Neon Banner">
@@ -72,6 +72,4 @@ Juicy2.0
     <footer>&copy; 2025 Afterdarkjuice. All rights reserved.</footer>
 </body>
 </html><meta name="ppck-ver" content="8afe6b903ee5ee7b71c042e11563daef" />
-<meta name="ppck-ver" content="8afe6b903ee5ee7b71c042e11563daef" />
-ppck-ver-8afe6b903ee5ee7b71c042e11563daef.txt
-8afe6b903ee5ee7b71c042e11563daef
+<meta name="ppck-ver" 
