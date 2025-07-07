@@ -6,7 +6,10 @@ Juicy2.0
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Afterdarkjuice 🍒</title>
-<style>
+<meta name="ppck-ver" content="8afe6b903ee5ee7b71c042e11563daef" />
+ <style> /* your styles here */
+</style>
+</head>
     body {
         margin: 0;
         font-family: 'Segoe UI', sans-serif;
